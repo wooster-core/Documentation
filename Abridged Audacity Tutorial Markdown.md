@@ -5,8 +5,9 @@
 2. Plug in your flash drive.
 3. Click on the Audacity icon. ![Audacity Icon](https://files.fosswire.com/2007/10/audacity.png)
 4. If the icon is not there, press __Command + Space Bar.__ In the Searchlight menu box that appears, type in __“Audacity”__ and press __Return/Enter.__
-5. When Audacity opens, make sure your have these options selected in the drop down menus. Select them if they are not already: 
+5. When Audacity opens, make sure your have the following options selected in the drop down menus:
 * **How are you going to get these images in here?** 
+ Select them if they are not already.
 ![Screencap.](https://drive.google.com/file/d/0B1ZEO2zLO2RxU0VFaDAxb3NhN0E/preview)
 6. You can choose as many microphones as you want, but remember: We only have 3! If your menu does not show the microphones, or any of those other options, then check to make sure that the mixer is on! It should look like this. ![Picture of mixer.](https://drive.google.com/drive/folders/0B1ZEO2zLO2RxcEFWV2ZYclBXUGs).
 If it does not look like this, press the power switch on the back and wait a moment for it to load.
