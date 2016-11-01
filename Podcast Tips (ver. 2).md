@@ -3,8 +3,6 @@
 #### Do you wanna make a podcast? You’re in luck! We’re here to help. 
 *Compiled by Katie Randazzo and Converted to MarkDown by Komal Mesvani. Edited by Katie Randazzo.*
 
-[comment]: <> (Hi again Komal! Thanks for converting this one into Markdown for me!)
-
 - **Go in with a plan.** While sometimes, you can strike gold with a podcast idea on the fly, it’s really hard to do that and have it sound professional.
 - **Write a script or outline.** No matter how good you are at improv, an outline really makes the process easier!
 - **Make sure that you have enough microphones!** If you have 2 speakers, use a microphone for each. It will create a different audio track, but trust me. It’s worth it because it makes editing easier.
