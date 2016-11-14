@@ -7,7 +7,7 @@
 ![Audacity Icon](https://files.fosswire.com/2007/10/audacity.png)
 4. If the icon is not there, press __Command + Space Bar.__ In the Searchlight menu box that appears, type in __“Audacity”__ and press __Return/Enter.__
 5. When Audacity opens, make sure your have the following options selected in the drop down menus: Select them if they are not already.
-<p><img src="https://github.com/krcoding/Documentation/blob/master/Screen%20Shot%202016-09-13%20at%202.46.07%20PM.png?raw=true"></p>
+<p><img src="Documentation/images/image.audacity_basic.screen.png"></p>
 6. You can choose as many microphones as you want, but remember: We only have 3! If your menu does not show the microphones, or any of those other options, then check to make sure that the mixer is on! It should look like this.
 ![Picture of mixer.](https://github.com/krcoding/Documentation/blob/master/20160913_162410.jpg?raw=true).
 If it does not look like this, press the power switch on the back and wait a moment for it to load.
