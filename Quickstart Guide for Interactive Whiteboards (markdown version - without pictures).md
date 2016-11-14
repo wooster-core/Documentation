@@ -1,9 +1,6 @@
 # QuickStart Guide for Interactive Whiteboards
 *Compiled by Anushkaa Gupta, converted to Markdown by Katie Randazzo.*
 
-[comment]: <> (Hey Anushkaa! Jacob asked me to convert some of the tutorials into Markdown, and edit the ones that have already been converted.)
-[comment]: <> (I'm not sure how to upload the pictures, so this one is pictureless for now, and I'll note that in the title.)
-
 #### How To Project Using The VGA Cable
 ###### Note: This will simply display your computer screen onto the whiteboard. You will not be able to annotate or use the touch screen. You will have to use your computer/mouse to give commands. 
 1. Connect the VGA cable to your computer and connect the other end to the input that says “COMPUTER”.
