@@ -6,6 +6,7 @@
 3. Click on the Audacity icon.
 
 ![Audacity Icon](https://files.fosswire.com/2007/10/audacity.png)
+
 4. If the icon is not there, press __Command + Space Bar.__ In the Searchlight menu box that appears, type in __“Audacity”__ and press __Return/Enter.__
 5. When Audacity opens, make sure your have the following options selected in the drop down menus: Select them if they are not already.
 <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_mic.output.png"></p>
