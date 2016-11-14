@@ -1,9 +1,6 @@
 # **How to Use a Green or Blue Screen:**
 *Compiled and Converted to MarkDown by Komal Mesvani.*
 
-[comment]: <> (Hi Komal!)
-[comment]: <> (Jacob asked me to go through and proofread all of the tutorials we've done and convert the .rtfs into .mds. This one looks good! We just need to add pictures to it, and I'll mention that in the title for this one.)
-
 1.	Slide the curtains to the right to cover the white board. 
 2.	Locate the LiteRing controller on the floor, below the video camera. 
 3.	Switch the silver toggle on the LiteRing controller to the right for a blue screen.  
