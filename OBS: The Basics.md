@@ -1,4 +1,5 @@
-# **How to Use a Green or Blue Screen:**
+# ONE-BUTTON STUDIO
+## **How to Use a Green or Blue Screen:**
 *Compiled and Converted to MarkDown by Komal Mesvani. Edited by Katie Randazzo.*
 
 1.	Slide the curtains to the right to cover the white board.
