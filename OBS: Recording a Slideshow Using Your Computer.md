@@ -1,4 +1,5 @@
-# How to record a presentation from your computer
+# ONE-BUTTON STUDIO
+## How to record a presentation from your computer
 *Written by Komal Mesvani, Converted into Markdown by Katie Randazzo.*
 
 1. Check out cables (VGA cable or HDMI cable) and a dongle for a Mac computer from the Andrews circulation desk.
