@@ -71,7 +71,7 @@ Press the button firmly. Brand new buttons – or buttons that haven’t seen as
 
 
 
-#### Camera
+### Camera
 **The video is out of focus.**
 
 Call the CoRE Consultants at 330-234-6564 or email them at core@wooster.edu.
