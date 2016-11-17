@@ -5,7 +5,7 @@ ____
 *Compiled and Converted to MarkDown by Anushkaa Gupta. Edited by Anushkaa Gupta.*
 
 
-#### USB Drive
+### USB Drive
 **I plugged in my USB Drive and nothing happened. I received an error message: “USB Drive not properly formatted”.** 
 
 Check the format of your drive by right-clicking on the drive and selecting Get Info. If the format says FAT32 then *sigh*, the OBS is finicky. Try using another USB drive.  
@@ -36,6 +36,8 @@ The USB drive was removed too early. When you are finished recording press the b
 Ensure the USB drive isn’t defective by testing out using the Presentation computer. Many USB drives that are given away on campus and off are very cheaply made. These drives have been noted to have up to a 20% failure rate when working with the One Button Studio. In these cases, another USB drive is recommended.
 
 
+
+
 #### Microphone
 **I’m playing the video and it has no audio on this.**
 
@@ -54,10 +56,14 @@ Avoid using Windows Media Player to play your video. Sound playback issues may b
 Play video directly from the desktop instead of the USB drive. Sound playback issues may result from USB drives being too slow. This will manifest as video stuttering or appearing out of sync. Copy the .mp4 from the USB drive to the desktop and then open the .mp4 on the desktop.
 
 
+
+
 #### Button
 **Nothing happens when I press the button.**
 
 Press the button firmly. Brand new buttons – or buttons that haven’t seen as much usage – may be slightly springier than older ones and the switch inside may not contact with the appropriate pressure. If the button light is on, press the button and hold it down for a slightly longer amount of time. In general, firmly press the button instead of lightly tapping it.
+
+
 
 
 #### Camera
@@ -81,6 +87,8 @@ Call the CoRE Consultants at 330-234-6564 or email us at core@wooster.edu.
 
 Play video directly from the desktop instead of the USB drive. Sound playback issues may result from USB drives being too slow. This will manifest as video stuttering or appearing out of sync. Copy the .mp4 from the USB drive to the desktop and then open the .mp4 on the desktop.
 If the problem persists, please call the CoRE Consultants at 33-234-6564 or email us at core@wooster.edu.
+
+
 
 
 #### Lights
