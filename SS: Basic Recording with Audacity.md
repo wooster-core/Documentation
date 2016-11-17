@@ -1,4 +1,5 @@
-# Audacity Tutorial
+# SOUND STUDIO
+## Audacity Tutorial
 ### Want to use Audacity? We can help!
 
 1. Log in to the computer.
