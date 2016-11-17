@@ -5,9 +5,12 @@ ____
 *Compiled and Converted to MarkDown by Anushkaa Gupta. Edited by Anushkaa Gupta.*
 
 #### USB Drive
-**I plugged in my USB Drive and nothing happened. I received an error message: “USB Drive not properly formatted”.** Check the format of your drive by right-clicking on the drive and selecting Get Info. If the format says FAT32 then *sigh*, the OBS is finicky. Try using another USB drive.  
+**I plugged in my USB Drive and nothing happened. I received an error message: “USB Drive not properly formatted”.** 
+Check the format of your drive by right-clicking on the drive and selecting Get Info. If the format says FAT32 then *sigh*, the OBS is finicky. Try using another USB drive.  
+
 USB drives must be formatted as FAT32 or HFS+ in order to be used with the One Button Studio. Other formats will not work. 
 You can use the Mac computers outside in the digital studio to format your USB Drive. If you want to change the format of your USB drive, please visit http://qsee.custhelp.com/app/answers/detail/a_id/2560/~/mac%3A-how-to-format-a-flash-drive-to-fat32-in-mac-os-x for step by step instructions on how to do so. 
+
 If it still doesn’t work, call the CoRE Consultants at 330-234-6564 or email us at core@wooster.edu.
 
 **I plugged in my USB Drive and nothing happened. I received an error message: “USB Drive doesn’t have enough space”.**
