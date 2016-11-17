@@ -1,6 +1,6 @@
 # ONE-BUTTON STUDIO
 ____
-## Trouble Shooting Guide
+## Troubleshooting Guide
 ____
 *Compiled and Converted to MarkDown by Anushkaa Gupta. Edited by Anushkaa Gupta.*
 
