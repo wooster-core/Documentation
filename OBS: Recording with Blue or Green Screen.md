@@ -13,7 +13,7 @@
 9.	Then, lightly press the One Button Studio button.
 10.	Wait for the 5-second countdown that will appear on the computer screen before you start presenting.
 11.	Once finished recording, lightly press the One Button Studio button again to end the recording.
-12.	The file will automatically be saved on you USB drive.
+12.	The file will automatically be saved on your USB drive.
 13.	If you chose to do another recording, follow steps 5-7 again.
 14.	Make sure to keep the door closed for better sound quality!
 15.	 Lightly press and hold the One Button Studio button for about 2 seconds and then eject your USB when the lights turn off and the computer goes back to the home screen.
