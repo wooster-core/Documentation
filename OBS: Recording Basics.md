@@ -1,6 +1,6 @@
 # ONE-BUTTON STUDIO
 ## **How to Do a Basic Video Recording:**
-*Compiled and Converted to MarkDown by Komal Mesvani. Edited by Katie Randazzo.*
+*Compiled and Converted to MarkDown by Komal Mesvani. Edited by Katie Randazzo and Komal Mesvani.*
 
 1.	Take your USB drive and insert it into the USB outlet by the computer.
 <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_basic.insert-drive.jpg?raw=true" width=250></p>
