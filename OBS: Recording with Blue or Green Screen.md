@@ -6,10 +6,10 @@
 2.	Locate the LiteRing controller on the floor, below the video camera.
 3.	Switch the silver toggle on the LiteRing controller to the right for a blue screen. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_bluescreen.toggle.jpg?raw=true" width = 250></p>
 4.	The LiteRing around the video camera lens should turn blue. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_bluescreen.LiteRing.jpg?raw=true" width = 250></p> 
-5. Double-check your computer screen to see if the blue screen is visible on camera. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_bluescreen-on-computer-screen.jpeg?raw=true" width = 250></p>
+5. Double-check your computer screen to see if the blue screen is visible on camera. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_bluescreen-on-computer-screen.jpeg?raw=true" width = 350></p>
 6.	Switch the toggle to the left for a green screen.
 7.	The LiteRing around the video camera lens should turn green. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_greenscreen.LiteRing.jpg" width = 250></p>
-8.	Double-check your computer screen to see if the green screen is visible on camera. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_greenscreen-on-computer-screen.jpeg" width = 250></p>
+8.	Double-check your computer screen to see if the green screen is visible on camera. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_greenscreen-on-computer-screen.jpeg" width = 350></p>
 9.	Then, lightly press the One Button Studio button.
 10.	Wait for the 5-second countdown that will appear on the computer screen before you start presenting.
 11.	Once finished recording, lightly press the One Button Studio button again to end the recording.
