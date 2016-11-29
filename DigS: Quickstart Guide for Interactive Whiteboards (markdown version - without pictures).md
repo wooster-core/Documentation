@@ -6,7 +6,7 @@
 1. Connect the VGA cable to your computer and connect the other end to the input that says “COMPUTER”. <img src="Documentation/images/image.display_whiteboard.input.jpeg" rotate="90">
 2. If you want audio to play from the projector, connect the audio input too.
 3. Turn on the projector by pressing button number 1 which says “ON”. <img src=Documentation/images/image.display_whiteboard.turn-on.png>
-4. Press the button number 3 with the computer on it to turn on the display.
+4. Press the button number 3 with the computer on it to turn on the display. <img src="Documentation/images/image.display_whiteboard.computer-button.png">
 5. Your computer screen should now be displayed on the whiteboard! 
 
 #### How To Project Using The HDMI Cable
