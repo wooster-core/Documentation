@@ -16,3 +16,5 @@
 - **Make sure to record 30 or so seconds of blank audio before starting.** That way, you can remove the ambient noise of the room once you’re done recording, and have clearer audio.
 	
 **Any more questions?** Ask a CoRE Consultant!
+
+**Are you a faculty member thinking about podcasts?** You might also check out [Educational Technology's post](http://educationaltechnology.wooster.edu/have-my-students-create-a-podcast-or-audio-recording/) on the topic!
