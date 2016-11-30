@@ -3,7 +3,7 @@
 
 #### How To Project Using The VGA Cable
 ###### Note: This will simply display your computer screen onto the whiteboard. You will not be able to annotate or use the touch screen. You will have to use your computer/mouse to give commands. 
-1. Connect the VGA cable to your computer and connect the other end to the input that says **“COMPUTER”.** <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.display_whiteboard.control-box_rotated.png?raw=true" width = 350></p>
+1. Connect the VGA cable to your computer and connect the other end to the input that says **“COMPUTER”.** <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.display_whiteboard.input_rotated.png?raw=true" width=350></p>
 2. If you want audio to play from the projector, connect the audio input too.
 3. Turn on the projector by pressing button number 1 which says **“ON”.** <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.display_whiteboard.turn-on.png?raw=true" width = 350></p>
 4. Press the button number 3 with the computer on it to turn on the display. <img src="https://github.com/wooster-core/Documentation/blob/master/images/image.display_whiteboard.computer-button.png?raw=true" width = 350>
