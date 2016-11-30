@@ -3,22 +3,20 @@
 ### Want to use Audacity? We can help!
 
 1. Log in to the computer.
-2. Plug in your flash drive.
+2. Plug in your flash drive, if you have one.
 <p><img src="https://files.fosswire.com/2007/10/audacity.png"></p>
-3. Click on the Audacity icon.
-4. If the icon is not there, press __Command + Space Bar.__ In the Searchlight menu box that appears, type in __“Audacity”__ and press __Return/Enter.__
-5. When Audacity opens, make sure your have the following options selected in the drop down menus: Select them if they are not already.
+3. Click on the Audacity icon. If the icon is not there, or if Audacity did not open immediately, then open up Launchpad. <p><img src="http://www.technikblog.ch/wp-content/uploads/2012/08/Launchpad-Icon.png" width = 100></p> You can find Audacity there in the list of apps.
+4. When Audacity opens, make sure you have the following options selected in the dropdown menus. Note: If ‘Scarlett 18i8 USB’ is not an option in the second menu, make sure the mixer is powered on (switch on back, right).
 <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_mic.output.png"></p>
-6. You can choose as many microphones as you want, but remember: We only have 3! If your menu does not show the microphones, or any of those other options, then check to make sure that the mixer is on! It should look like this.
+6. Choose the number of inputs in the third dropdown menu.
+7. The Focusrite mixer should look like this if you’re recording with three microphone inputs. Please see the expanding instructions (online) if you’re recording with one or 2 microphones.
 <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_mixer.jpg"></p>
-If it does not look like this, press the power switch on the back and wait a moment for it to load.
-8. To begin recording, press the __red circle/record button. *Make sure that you are standing in front of the microphone when you are recording!!*__ <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_button.record.png"></p>
+8. To begin recording, press the __red circle/record button. *Be sure to speak directly into the front of the microphone!*__ <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_button.record.png"></p>
 9.  When you want to stop recording, __press the gold square/stop button.__ <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_button.stop.png?raw=true"></p>
 10.  To listen to your audio, __press the green triangle/play button.__ <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_button.play.png?raw=true"></p>
-11.  Once you’re satisfied with your recording, **press “File” in the top-left corner of the screen, in the top bar next to the Apple icon, then press “Save Project”.** <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_saveaup.png?raw=true"></p>
+11.  Once you’re satisfied with your recording, **press “File” in the top-left corner of the screen, in the top bar next to the Apple icon, then press “Save Project”.** <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_saveaup.png?raw=true"></p> (For more information on exporting, please see expanding instructions online.)
 <p>Click "okay."</p>
 <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_saveaup2.png"></p>
-12.  Name your file and **_SAVE IT!!!!_** <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_saveaup3.png?raw=true"></p>
-13. When you have your file saved, take **the data folder and the .aup itself** and put them onto your flash drive. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_saveaup4.png?raw=true"></p>
+12.  Name your file and **save it to your flash drive.** <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_saveaup3.png?raw=true"></p> If you do not have a flash drive, please go to our expanded instructions online.
 13.  Once you have done so, then __eject your flash drive__ (drag the icon on the desktop for your flash drive to the trash and wait for it to disappear).
-14.  You’re done! Go into the __Digital Media Studio__ next door and begin editing your audio!
+14.  You’re done! Go into the __Digital Studio__ next door and begin editing your audio!
