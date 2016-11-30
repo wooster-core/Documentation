@@ -1,6 +1,5 @@
 # SOUND STUDIO
-## Audacity Tutorial
-### Podcast Tips
+## Podcasting Tips
 ![Stock image from iBroadcastNetwork.](http://www.ibroadcastnetwork.org/images/sized/7842726d6ad787122f5562c2f974242c39ca7fe2.png)
 #### Do you wanna make a podcast? You’re in luck! We’re here to help. 
 *Compiled by Katie Randazzo and Converted to MarkDown by Komal Mesvani. Edited by Katie Randazzo.*
