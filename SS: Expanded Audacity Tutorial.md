@@ -19,7 +19,7 @@ Once done, please reset the mixer's dials to how they were when you first arrive
 1. If you do not have Audacity installed on your computer, or feel that your current recording is sufficient, press “File” in the top-left corner of the screen, in the top bar next to the Apple icon, then press “Export Audio”.
 <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_export.png"></p>
 2. Save to whichever destination you would like. Name your file and select **.wav** as the file type.
-<p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_saving.file.png"></p>
+<p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_export_wav.png"></p>
 ##### If You Do Not Have a Flash Drive
 
 1. Either save or export your file.
