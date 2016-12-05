@@ -1,4 +1,4 @@
-# Audacity Advance Editing Tutorials 
+# Audacity Advanced Editing Tutorials 
 ### Wooster’s Resources
 http://technology.spaces.wooster.edu/audacity/ 
 
