@@ -20,3 +20,5 @@
 12.  Name your file and **save it to your flash drive.** <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_saveaup3.png?raw=true"></p> [If you do not have a flash drive, please go to our expanded instructions online.](https://github.com/wooster-core/Documentation/blob/master/SS:%20Expanded%20Audacity%20Tutorial.md)
 13.  Once you have done so, then __eject your flash drive__ (drag the icon on the desktop for your flash drive to the trash and wait for it to disappear).
 14.  You’re done! Go into the __Digital Studio__ next door and begin editing your audio!
+
+If you would like more information about editing in Audacity, check out [our list of tutorials](https://github.com/wooster-core/Documentation/blob/master/SS:%20Tutorial%20Resource%20List.md) and our [expanded instructions.](https://github.com/wooster-core/Documentation/blob/master/SS:%20Expanded%20Audacity%20Tutorial.md)
