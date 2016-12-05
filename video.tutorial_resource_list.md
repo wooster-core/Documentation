@@ -11,11 +11,11 @@ Emory University has put together some basic information which will allow you to
 
 ### Audacity Basics: Recording, Editing, Mixing
 https://www.youtube.com/watch?v=8ClwSNm362E
-This is a 13 minute youtube video that covers anything you wish to know recording basic audacity ‘editing’. It covers 
-* recording
-* adjusting volume
-* audio compression
-* selecting and deleting clips
-* importing music
-* splitting tracks
-* adjusting the volume
+This is a 13 minute youtube video that covers anything you wish to know recording basic audacity ‘editing’. It covers... 
+* Recording
+* Adjusting volume
+* Audio compression
+* Selecting and deleting clips
+* Importing music
+* Splitting tracks
+* Adjusting the volume
