@@ -8,6 +8,7 @@ The College of Wooster has put up a few resources to help you use Audacity, all 
 Check out our tutorials!
 * [Basic Audacity Tutorial](https://github.com/wooster-core/Documentation/blob/master/SS:%20Basic%20Recording%20with%20Audacity.md)
 * [Expanded Audacity Tutorial](https://github.com/wooster-core/Documentation/blob/master/SS:%20Expanded%20Audacity%20Tutorial.md)
+* [Editing in Audacity](https://github.com/wooster-core/Documentation/blob/master/SS:%20Editing%20with%20Audacity.md)
 * [Podcast Recording Tips](https://github.com/wooster-core/Documentation/blob/master/SS:%20Podcast%20Tips.md)
 
 
