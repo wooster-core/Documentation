@@ -17,27 +17,20 @@
 #### Adding Effects
 ##### Whether you want to speed up your voice or cut out white noise, here's where you should go.
 1. To select the entire audio track, click on the left area of the track, where it says **“Mono/Stereo” (Note:** This will depend on the file).
-![A screencap showing the action, with a handy area pointing out where to click.](https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_sound.amplify.png)
-
+<p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_sound.amplify.png"></p>
 2. From there, what you want to do is up to you! To access effects, such as changing speed or pitch--or even both!--click on **Effect** in the top-screen menu, to the right of the Apple icon and to the left of “Help”.
-![Here's what that looks like.](https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_effects.png)
+<p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_effects.png"></p>
 
 ##### Remove White Noise
-1. For removing noise, follow the same instructions as **"Cutting Out/Deleting Sound"** on an area with the white noise you want to remove, but **do not press delete**.
-
-![Same thing, but slightly different this time!](https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_editing_noiseremoval1.png)
-
+1. For removing noise, follow the same instructions as **"Cutting Out/Deleting Sound"** on an area with the white noise you want to remove, but **do not press delete**. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_editing_noiseremoval1.png"></p>
 2. In the effects menu, select **Noise Reduction**.
-![The menu is shown.](https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_editing_noiseremoval2.png)
-
+<p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_editing_noiseremoval2.png"></p>
 3. Click on **Get Noise Profile**.
-![The button is highlighted here.](https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_editing_noiseremoval3.png)
-
+<p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_editing_noiseremoval3.png"></p>
 4. Once you have done that, then select the entire audio track (as seen in **step 1 of "Adding Effects"**), and click on **Noise Removal** again.
-![The menu, with the full track highlighted.](https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_editing_noiseremoval4.png)
-
+<p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_editing_noiseremoval4.png"></p>
 5. Click on "Okay".
-![Okay button shown.](https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_editing_noiseremoval5.png)
+<p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_editing_noiseremoval5.png"></p>
 
 #### Aligning Tracks
 ##### If you have recorded more than one audio file, this will help you put them side-by-side, or wherever else you would like.
