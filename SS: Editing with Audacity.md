@@ -1,8 +1,10 @@
 # Editing Sound with Audacity
-#### Whether it’s making your audio sound nice for your upcoming presentation, or making yourself sound like a chipmunk, we can help you out.
+### Whether it’s making your audio sound nice for your upcoming presentation, or making yourself sound like a chipmunk, we can help you out.
+
 
 
 #### Working with Existing Audio
+##### If you are working with a project or have your project already open, you can skip this step.
 1. Log in to the computer.
 2. Plug in your flash drive.
 3. Open Audacity. (See our [Basic Tutorial](https://github.com/wooster-core/Documentation/blob/master/SS:%20Basic%20Recording%20with%20Audacity.md) if you are having issues with getting the program to open.)
