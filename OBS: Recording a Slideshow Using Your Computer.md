@@ -14,3 +14,5 @@
 9. Be cautious of where you are standing when presenting.
 10. Talk and look at the camera when recording. 
 11. Be careful with how you design your slides, based on where you want to be in the frame when filming.
+
+**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
