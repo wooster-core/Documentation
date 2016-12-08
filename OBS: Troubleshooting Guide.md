@@ -114,3 +114,7 @@ You can use the Mac computers outside in the digital studio to format your USB D
 **Nothing happens when the USB Drive is plugged in.**
 
 > Call the CoRE Consultants at 33-234-6564 or email us at core@wooster.edu.
+
+
+
+**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
