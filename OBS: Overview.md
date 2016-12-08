@@ -4,8 +4,7 @@
 
 
 #### What is the One Button Studio? 
-The OBS is a user-friendly way to practice, record or prepare for a presentation. 
-* You can do this in 6 easy steps! 
+The OBS is a user-friendly way to practice, record or prepare for a presentation. You can do this in 6 easy steps! 
 * Walk over to CoRE in the library.
 * Plug your USB drive into the recording computer. 
 * Press the button to activate the lights and camera and start recording! 
