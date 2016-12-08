@@ -24,3 +24,5 @@
 12.	*You're done!* Now you can go edit your videos in the Digital Studio!
 <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_basic.eject-drive.JPG?raw=true" width=250></p>
 
+
+**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
