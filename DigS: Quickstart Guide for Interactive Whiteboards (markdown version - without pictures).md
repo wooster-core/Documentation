@@ -34,3 +34,6 @@
 5. To display your computer screen, click the button that says **“SOURCE SEARCH”.** Your computer screen should now be displayed! 
 6. Use one of the pens from this box on the right side of the board to annotate the screen. The box opens on the top. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.display_whiteboard.marker-box.JPG?raw=true" width=350></p>
 7. You're done!
+
+
+Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)
