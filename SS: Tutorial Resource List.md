@@ -29,3 +29,7 @@ Check out our tutorials!
 Any questions? Ask a Digital Media Bar or CoRE Consultant!
 
 Email us at [core@wooster.edu](mailto:core@wooster.edu).
+
+
+
+**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
