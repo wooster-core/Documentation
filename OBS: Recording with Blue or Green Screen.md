@@ -3,7 +3,7 @@
 *Compiled and Converted to MarkDown by Komal Mesvani. Edited by Katie Randazzo.*
 
 1.	Slide the gray curtain to the right to cover the whiteboard. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_greenscreen.curtains.jpg?raw=true" width = 250></p>
-2.	Locate the LiteRing controller on the floor, below the video camera.
+2.	Locate the LiteRing controller, next to the computer.
 3.	Switch the silver toggle on the LiteRing controller to the right for a blue screen. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_bluescreen.toggle.jpg?raw=true" width = 250></p>
 4.	The LiteRing around the video camera lens should turn blue. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_bluescreen.LiteRing.jpg?raw=true" width = 250></p> 
 5. Double-check your computer screen to see if the blue screen is visible on camera. <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.OBS_bluescreen-on-computer-screen.jpeg?raw=true" width = 350></p>
