@@ -18,3 +18,7 @@
 14.	Make sure to keep the door closed for better sound quality!
 15.	 Lightly press and hold the One Button Studio button for about 2 seconds and then eject your USB when the lights turn off and the computer goes back to the home screen.
 16.	  Now you can go edit your videos in the Digital Studio!
+
+
+
+**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
