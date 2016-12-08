@@ -21,4 +21,8 @@
 13.  Once you have done so, then __eject your flash drive__ (drag the icon on the desktop for your flash drive to the trash and wait for it to disappear).
 14.  You’re done! Go into the __Digital Studio__ next door and begin editing your audio!
 
-If you would like more information about editing in Audacity, check out [our list of tutorials](https://github.com/wooster-core/Documentation/blob/master/SS:%20Tutorial%20Resource%20List.md), our [page on how to edit in Audacity](https://github.com/wooster-core/Documentation/blob/master/SS:%20Editing%20with%20Audacity.md), and our [expanded instructions.](https://github.com/wooster-core/Documentation/blob/master/SS:%20Expanded%20Audacity%20Tutorial.md)
+If you would like more information about editing in Audacity, check out [our list of Audacity tutorials](https://github.com/wooster-core/Documentation/blob/master/SS:%20Tutorial%20Resource%20List.md), our [page on how to edit in Audacity](https://github.com/wooster-core/Documentation/blob/master/SS:%20Editing%20with%20Audacity.md), and our [expanded instructions.](https://github.com/wooster-core/Documentation/blob/master/SS:%20Expanded%20Audacity%20Tutorial.md)
+
+
+
+**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
