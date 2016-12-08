@@ -56,3 +56,6 @@
 2. Once you are done editing your audio, either save or export it then __eject your flash drive.__ (More info on saving and exporting can be found in the [Expanded Tutorial.](https://github.com/wooster-core/Documentation/blob/master/SS:%20Expanded%20Audacity%20Tutorial.md)
 
 3. You're done! __Don't forget to log out!__
+
+
+**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
