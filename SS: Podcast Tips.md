@@ -17,3 +17,6 @@
 **Any more questions?** Ask a CoRE Consultant!
 
 **Are you a faculty member thinking about podcasts?** You might also check out [Educational Technology's post](http://educationaltechnology.wooster.edu/have-my-students-create-a-podcast-or-audio-recording/) on the topic!
+
+
+**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
