@@ -50,3 +50,5 @@ Use good enunciation as you speak.
 * If you do plan on moving stuff around, please return the room to its original layout before you leave. 
 * Stick to your time slot. If you think you might require more time, let someone in the CoRE team know so they can help you out.
 
+
+**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
