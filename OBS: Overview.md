@@ -42,3 +42,7 @@ OBS is a great tool that helps you practice your presentation and helps you spot
 * Course Overview
 * Recording lectures to substitute them when travel is required
 * TEDx Talks
+
+
+
+**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
