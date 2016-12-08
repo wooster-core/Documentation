@@ -37,4 +37,4 @@
 
 
 
-> Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)
+**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
