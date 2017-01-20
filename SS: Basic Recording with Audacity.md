@@ -25,4 +25,4 @@ If you would like more information about editing in Audacity, check out [our lis
 
 
 
-**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
+**Want more of our tutorials? Click [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
