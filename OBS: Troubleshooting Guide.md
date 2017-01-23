@@ -11,7 +11,7 @@
 > USB drives must be formatted as FAT32 or HFS+ in order to be used with the One Button Studio. Other formats will not work. 
 You can use the Mac computers outside in the digital studio to format your USB Drive. If you want to change the format of your USB drive, please visit http://qsee.custhelp.com/app/answers/detail/a_id/2560/~/mac%3A-how-to-format-a-flash-drive-to-fat32-in-mac-os-x for step by step instructions on how to do so. 
 > 
-> If it still doesn’t work, call the CoRE Consultants at 330-234-6564 or email us at core@wooster.edu.
+> If it still doesn’t work, email the CoRE Consultants at core@wooster.edu.
 
 
 
@@ -49,7 +49,9 @@ You can use the Mac computers outside in the digital studio to format your USB D
 
 **There is a hissing sound or noise on the video.**
 
-> Call the CoRE Consultants at 330-234-6564 or email us at core@wooster.edu.
+> Try ejecting the flashdrive and re-plugging it into the system.
+> If it still doesn’t work, email the CoRE Consultants at core@wooster.edu.
+
 
 
 
@@ -73,7 +75,8 @@ You can use the Mac computers outside in the digital studio to format your USB D
 ### Camera
 **The video is out of focus.**
 
-> Call the CoRE Consultants at 330-234-6564 or email them at core@wooster.edu.
+> Try ejecting the flashdrive and re-plugging it into the system.
+> If it still doesn’t work, email the CoRE Consultants at core@wooster.edu.
 
 
 
@@ -86,34 +89,38 @@ You can use the Mac computers outside in the digital studio to format your USB D
 
 **I want to zoom in/out more.**
 
-> Call the CoRE Consultants at 330-234-6564 or email us at core@wooster.edu.
+> Please contact the CoRE Consultants at core@wooster.edu.
 
 
 
 **The video stutters.**
 
 > Play video directly from the desktop instead of the USB drive. Sound playback issues may result from USB drives being too slow. This will manifest as video stuttering or appearing out of sync. Copy the .mp4 from the USB drive to the desktop and then open the .mp4 on the desktop.
-> If the problem persists, please call the CoRE Consultants at 33-234-6564 or email us at core@wooster.edu.
+> If the problem persists, email the CoRE Consultants at core@wooster.edu.
 
 
 
 
 ### Lights
 **The lights don’t turn on.**
-
-> Call the CoRE Consultants at 33-234-6564 or email us at core@wooster.edu.
+> Try ejecting the flashdrive and re-plugging it into the system.
+> If it still doesn’t work, email the CoRE Consultants at core@wooster.edu.
 
 
 
 **The lights don’t turn off.**
 
-> Call the CoRE Consultants at 33-234-6564 or email us at core@wooster.edu.
+> Try ejecting the flashdrive and re-plugging it into the system.
+> If it still doesn’t work, email the CoRE Consultants at core@wooster.edu.
+
 
 
 
 **Nothing happens when the USB Drive is plugged in.**
 
-> Call the CoRE Consultants at 33-234-6564 or email us at core@wooster.edu.
+> Try ejecting the flashdrive and re-plugging it into the system.
+> If it still doesn’t work, email the CoRE Consultants at core@wooster.edu.
+
 
 
 
