@@ -8,7 +8,7 @@ In our basic tutorial, we went through how to record with three microphones at o
 1. In the drop-down menu, select the number of microphones you will need.
 <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_mic.output.png"></p>
 2. Here is a diagram of our layout, along with each microphone's number:
-[ picture to be added soon. ]
+<p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.ss.mic_diagram.jpg"/></p>
 3. On the mixer, take the knobs of the microphones you will not be using, and turn them all the way to the left.
 <p><img src="https://github.com/wooster-core/Documentation/blob/master/images/image.audacity_mixer.jpg"></p>
 Once done, please reset the mixer's dials to how they were when you first arrived.
