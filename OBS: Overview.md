@@ -45,4 +45,4 @@ OBS is a great tool that helps you practice your presentation and helps you spot
 
 
 
-**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/blob/master/README.md)**
+**Want more of our tutorials? Read them [here.](https://github.com/wooster-core/Documentation/README.md)**
