@@ -9,7 +9,7 @@
 > Check the format of your drive by right-clicking on the drive and selecting Get Info. If the format says FAT32 then *sigh*, the OBS is finicky. Try using another USB drive.  
 >
 > USB drives must be formatted as FAT32 or HFS+ in order to be used with the One Button Studio. Other formats will not work. 
-You can use the Mac computers outside in the digital studio to format your USB Drive. If you want to change the format of your USB drive, please visit http://qsee.custhelp.com/app/answers/detail/a_id/2560/~/mac%3A-how-to-format-a-flash-drive-to-fat32-in-mac-os-x for step by step instructions on how to do so. 
+You can use the Mac computers outside in the digital studio to format your USB Drive. If you want to change the format of your USB drive, please [follow this link](http://qsee.custhelp.com/app/answers/detail/a_id/2560/~/mac%3A-how-to-format-a-flash-drive-to-fat32-in-mac-os-x) for step by step instructions on how to do so. 
 > 
 > If it still doesn’t work, email the CoRE Consultants at core@wooster.edu.
 
@@ -83,7 +83,7 @@ You can use the Mac computers outside in the digital studio to format your USB D
 **There is a delay in the video.**
 
 > While recording the video will appear on the recording monitor. It will look like there is a delay between what you doing in front of the camera and what is being recorded. This is the result of the encoding process the video goes through before being displayed on the recording monitor. This delay will not appear on the final .mp4 recording. 
-> If the problem persists in the final video, please call the CoRE Consultants at 33-234-6564 or email us at core@wooster.edu.
+> If the problem persists in the final video, please email the CoRE Consultants at core@wooster.edu.
 
 
 
@@ -103,6 +103,7 @@ You can use the Mac computers outside in the digital studio to format your USB D
 
 ### Lights
 **The lights don’t turn on.**
+> Make sure that the light switch on the wall is in the "on" position. 
 > Try ejecting the flashdrive and re-plugging it into the system.
 > If it still doesn’t work, email the CoRE Consultants at core@wooster.edu.
 
