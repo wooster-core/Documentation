@@ -35,6 +35,10 @@ Welcome to our GitHub repository! The Wooster-Core team is a team of four people
 
 > Our general guide to the OBS.
 
+* [Best Practices](https://github.com/wooster-core/Documentation/blob/master/OBS:%20Best%20Practices.md)
+
+> A list of good ideas for using the OBS in particular in for recording video presenations more generally. 
+
 * [Recording Basics](https://github.com/wooster-core/Documentation/blob/master/OBS:%20Recording%20Basics.md)
 
 > A beginner tutorial on how to record video with the OBS.
